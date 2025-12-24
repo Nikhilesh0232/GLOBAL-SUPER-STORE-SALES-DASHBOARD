@@ -21,6 +21,8 @@ Created calculated columns and measures using DAX
 Handled missing values and standardized data formats
 🔹 Business Insights
 Identified high-profit and low-profit regions
-Analyzed category-wise performance
+Analyzed category-wise performance.
+Screenshots:
+The dashboards look like -https://github.com/Nikhilesh0232/GLOBAL-SUPER-STORE-SALES-DASHBOARD/blob/main/2025-12-24%20(3).png
 
 
